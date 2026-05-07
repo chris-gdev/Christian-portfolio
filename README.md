@@ -1,16 +1,20 @@
-# React + Vite
+# Portfólio — Christian Guillen 🧑‍💻
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Portfólio pessoal desenvolvido do zero para apresentar projetos e habilidades como desenvolvedor full stack.
 
-Currently, two official plugins are available:
+## 🔗 Deploy
+https://meu-portifolio-neon-six.vercel.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ O que tem no portfólio
+- Apresentação pessoal e stack
+- Projetos demo (restaurante, clínica, dashboard)
+- Dashboard com integração Supabase
+- Design responsivo
 
-## React Compiler
+## 🛠️ Tecnologias
+- React + Vite + TypeScript
+- Tailwind CSS
+- Vercel (deploy)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📸 Preview
+<img width="1906" height="915" alt="image" src="https://github.com/user-attachments/assets/2b86cd6f-42cd-4e3b-bdf9-4d7f6790c934" />
